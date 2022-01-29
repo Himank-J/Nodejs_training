@@ -1,0 +1,1 @@
+{"Uptime":8755,"Type":"Darwin","Release":"21.1.0","Total Memory":17179869184,"Free Memory":1204502528}{"Working Directory":"/Users/himankjain/Desktop/Js","File Name":"/Users/himankjain/Desktop/Js/io.js"}
